@@ -45,6 +45,4 @@ Project is focused on creating a user-friendly HR dashboard with sentiment analy
 
 This initiative aligns with objectives such as enhancing user experience, promoting internal mobility, and ensuring regulatory compliance. The dashboard empowers HR departments to understand employee sentiments during organizational changes, aiding in policy formulation. targeting mid-level companies, our solution offers valuable insights to guide strategic decision-making. Screenshot 2024-04-07 024538
 
-Screenshot 2024-04-07 023627
-
-image
+[FinalPoster (1).pdf](https://github.com/mtayyab25/Capstone_CS-5588-/files/15257126/FinalPoster.1.pdf)
